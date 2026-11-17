@@ -74,8 +74,8 @@ This project is intended for educational and data analysis purposes only. Any re
 
 👨‍💻 Author
 
-Your Name
+Sandhya Singh
 
-Data Analysis | Python | Data Visualization
+Data Analysis | Python | Data Visualization 
 
 ⭐ If you find this project interesting, feel free to explore the repository and share your feedback!
